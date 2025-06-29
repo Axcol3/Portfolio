@@ -1,2 +1,3 @@
 # Portfolio
-https://github.com/Axcol3/Portfolio/index.html
+https://Axcol3.github.io/Portfolio/
+
