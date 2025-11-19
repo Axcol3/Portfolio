@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.itch.zone/aW1nLzE2ODcxNDAyLmdpZg==/original/8ipj9E.gif" width="100%" alt="Header GIF"/>
+  <img src="https://img.itch.zone/aW1nLzE2ODcxNDAyLmdpZg==/original/8ipj9E.gif](https://wallpaperbat.com/img/640971-rog-wallpaper-design-pixel-jeff.gif" width="100%" alt="Header GIF"/>
 </p>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">, I'm Alina Ashirova 😎</h1>
@@ -20,22 +20,23 @@
   
 ---
 
-### Skills & Tools :
+## 🛠 &nbsp;Developer Stack&nbsp;&nbsp;
 
-<code><img height="30" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/bootstrap.png"/></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/spring-logo.png"/></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/python--v1.png"/></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/sql.png"/></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/linux.png"/></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/docker.png"/></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/postman-api.png"/></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/insomnia.png"/></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></code>
-<code><img height="30" src="https://img.icons8.com/fluent/48/000000/github.png"/></code>
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=spring&logoColor=6DB33F)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 ---
 
