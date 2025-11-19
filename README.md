@@ -17,7 +17,7 @@
 - Passionate about **web development, Java programming, and Cybersecurity**.  
 - I enjoy exploring new technologies and solving real-world problems 🤖.  
 - Constantly improving my **skills in Java, Spring Boot, HTML, CSS, and OOP concepts**.
-
+  
 ---
 
 ### Skills & Tools :
@@ -27,12 +27,18 @@
 <code><img height="30" src="https://img.icons8.com/color/48/000000/bootstrap.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/spring-logo.png"/></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/git.png"/></code>
-<code><img height="30" src="https://img.icons8.com/fluent/48/000000/github.png"/></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/python--v1.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/sql.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/linux.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/docker.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/postman-api.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/insomnia.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></code>
+<code><img height="30" src="https://img.icons8.com/fluent/48/000000/github.png"/></code>
 
 ---
+
 
 ### Projects
 
