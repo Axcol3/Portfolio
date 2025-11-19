@@ -1,4 +1,6 @@
-<a href="https://github.com/Axcol3"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="200" /></a>
+<p align="center">
+  <img src="https://img.itch.zone/aW1nLzE2ODcxNDAyLmdpZg==/original/8ipj9E.gif" width="100%" alt="Header GIF"/>
+</p>
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">, I'm Alina Ashirova 😎
 
@@ -14,11 +16,9 @@
 - I'm Alina Ashirova, currently studying at **International University of Ala-Too (AIU / МУА)**. 🎓  
 - Passionate about **web development, Java programming, and Cybersecurity**.  
 - I enjoy exploring new technologies and solving real-world problems 🤖.  
-- Constantly improving my **skills in HTML, CSS, Java, Spring Boot, and OOP concepts**.
+- Constantly improving my **skills in Java, Spring Boot, HTML, CSS, and OOP concepts**.
 
 ---
-
-<img align="right" src="https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png" width="350">
 
 ### Skills & Tools :
 
@@ -104,6 +104,3 @@ HTML-based simple game project.
 ---
 
 #### *Really looking forward to connect with more developers and share ideas! Please support by giving ⭐ to my repositories!*
-
-
-
