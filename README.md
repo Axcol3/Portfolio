@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://img.itch.zone/aW1nLzE2ODcxNDAyLmdpZg==/original/8ipj9E.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FNishantsgithub%2FNishantsgithub&psig=AOvVaw3EaiNeSqs3Yx8PBeJ4RImE&ust=1763646250767000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDm9bSs_pADFQAAAAAdAAAAABAV" width="100%" alt="Header GIF"/>
+  <img src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif" width="100%" alt="Header GIF"/>
 </p>
+
 
 
 
