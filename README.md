@@ -42,10 +42,29 @@
 
 ### Projects
 
+#### 📝 Blog — Java Spring Boot Web Application
+Full-stack Spring Boot web app demonstrating MVC and CRUD operations.  
+**Tech:** Java, Spring Boot  
+[Source Code](https://github.com/Axcol3/Blog-Java-Spring-Boot-Web-Application)
+
+#### ⚡ Basic Spring — Java Spring Boot Starter Project
+Simple starter project for learning Spring Boot.  
+**Tech:** Java, Spring Boot  
+[Source Code](https://github.com/Axcol3/basic-spring)
+
+#### 💻 Java OOP Learning Project
+Learning project covering Java OOP concepts and multithreading.  
+**Tech:** Java  
+[Source Code](https://github.com/Axcol3/javaOOP)
+
 #### 🌿 Nature — Eco-friendly Landing Page
 Responsive one-page website themed around **nature preservation**.  
 **Tech:** HTML, CSS, Bootstrap 4  
 [Live Demo](https://axcol3.github.io/Nature/index.html) | [Source Code](https://github.com/Axcol3/Nature)
+
+#### 🥗 Vintage Food Page
+Simple HTML/CSS page project.  
+[Source Code](https://github.com/Axcol3/VintageFoodPage)
 
 #### 🎧 Music Player — Storefront Page
 Adaptive front page for a music store.  
@@ -67,29 +86,10 @@ Java console application for text processing.
 **Tech:** Java  
 [Source Code](https://github.com/Axcol3/Text-Analyzer)
 
-#### 💻 Java OOP Learning Project
-Learning project covering Java OOP concepts and multithreading.  
-**Tech:** Java  
-[Source Code](https://github.com/Axcol3/javaOOP)
-
-#### 📝 Blog — Java Spring Boot Web Application
-Full-stack Spring Boot web app demonstrating MVC and CRUD operations.  
-**Tech:** Java, Spring Boot  
-[Source Code](https://github.com/Axcol3/Blog-Java-Spring-Boot-Web-Application)
-
-#### ⚡ Basic Spring — Java Spring Boot Starter Project
-Simple starter project for learning Spring Boot.  
-**Tech:** Java, Spring Boot  
-[Source Code](https://github.com/Axcol3/basic-spring)
-
 #### 🍪 Cookie Tracker — Web Input & Cookie Management
 Interactive web page for storing 10 unique values as cookies.  
 **Tech:** HTML, JavaScript  
 [Source Code](https://github.com/Axcol3/Cookie-Tracker-Web-Input-Cookie-Management)
-
-#### 🥗 Vintage Food Page
-Simple HTML/CSS page project.  
-[Source Code](https://github.com/Axcol3/VintageFoodPage)
 
 #### ⬆️ Elevator Simulation
 Java console project simulating elevator operations.  
