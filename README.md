@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif" width="100%" alt="Header GIF"/>
+  <img src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" width="100%" alt="Header GIF"/>
 </p>
 
 
