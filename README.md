@@ -2,7 +2,7 @@
   <img src="https://img.itch.zone/aW1nLzE2ODcxNDAyLmdpZg==/original/8ipj9E.gif" width="100%" alt="Header GIF"/>
 </p>
 
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">, I'm Alina Ashirova 😎
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">, I'm Alina Ashirova�
 
 <p align="left">
 <img height="25" src="https://komarev.com/ghpvc/?username=Axcol3&color=brightgreen" />  
