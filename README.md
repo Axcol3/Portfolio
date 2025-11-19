@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://img.itch.zone/aW1nLzE2ODcxNDAyLmdpZg==/original/8ipj9E.gif](https://wallpaperbat.com/img/640971-rog-wallpaper-design-pixel-jeff.gif" width="100%" alt="Header GIF"/>
+  <img src="https://img.itch.zone/aW1nLzE2ODcxNDAyLmdpZg==/original/8ipj9E.gif" width="100%" alt="Header GIF"/>
 </p>
+
+
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">, I'm Alina Ashirova 😎</h1>
 
